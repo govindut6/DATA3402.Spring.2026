@@ -1,0 +1,1 @@
+RasterDrawing([Pixel(1,2,'red'), Pixel(3,4,'blue')])
